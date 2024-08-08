@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yamaksjd
 - 👀 I’m interested in technology 
-- 🌱 I’m currently learning html
+- 🌱 I’m currently working on projects to improve my coding skills 
 - 💞️ I’m looking to collaborate on developing a website
 - 📫 You can reach me through my email! (I don´t look there much but I´m trying to be more active)
 - 😄 Pronouns: she/her
